@@ -30,6 +30,7 @@ Após a finalização, o candidato deve enviar um e-mail para suporte@b7web.com.
 ## Projeto prático
 
 O candidato deve criar a página da imagem a seguir:
+
 ![Layout](https://i.ibb.co/Bydq2FZ/screencapture-spotify-br-2022-05-10-15-13-17.png)
 
 Algumas observações importantes:
