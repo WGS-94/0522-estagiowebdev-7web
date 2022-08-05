@@ -1,9 +1,9 @@
-# Teste para vaga de Estagiário Dev Web
+# Teste para vaga de Estagiário Dev Web 🔥
 
 O objetivo deste teste é entender o candidato, sua experiência e sua capacidade de resolução de problemas com dúvidas e detalhes que serão exigidos no dia-a-dia como Estagiário em Desenvolvimento Web.
 O teste é baseado em questionamentos e problemas a serem resolvidos.
 
-### Como será feito o teste?
+### 💡 Como será feito o teste?
 O teste é dividido em 2 etapas:
 - Questões teóricas.
 - Projeto prático, quer seja correção de bug ou criação do mesmo.
@@ -14,7 +14,7 @@ O candidato precisa criar um repositório próprio com a seguinte estrutura:
 
 Após a finalização, o candidato deve enviar um e-mail para suporte@b7web.com.br com o link do repositório original (este) bem como o link do repositório pessoal com a resolução.
 
-## Questões Teóricas
+## 🔍 Questões Teóricas
 
 1. Qual a função do "head" no HTML?
 2. Quando uma página é criada, ela automaticamente se adapta a todos os tipos de tela? Por que?
@@ -27,9 +27,10 @@ Após a finalização, o candidato deve enviar um e-mail para suporte@b7web.com.
 9. Qual a diferença entre class e ID no CSS?
 10. Quais os diferentes tipos de seletores CSS?
 
-## Projeto prático
+## 💻 Projeto prático
 
 O candidato deve criar a página da imagem a seguir:
+
 ![Layout](https://i.ibb.co/Bydq2FZ/screencapture-spotify-br-2022-05-10-15-13-17.png)
 
 Algumas observações importantes:
