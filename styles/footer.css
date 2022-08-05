@@ -1,21 +1,30 @@
-
 /* Footer */
 #footer {
 	background: black;
 	color: white;
 	padding: 80px 0;
+	
 }
 
 #footer .footer-content {
 	display: flex;
-	width: 60%;
+	width: 70%;
 	margin: auto;
 	justify-content: space-between;
+	/* border: 1px solid red; */
+}
+
+#footer .footer-content .logo {
+	width: 130px;
+	height: 40px;
+	margin-top: -12px;
 }
 
 #footer .footer-content .footer-menu {
-	margin: 0 60px;
+	margin: 0 40px;
 	list-style: none;
+
+	/* border: 1px solid green; */
 }
 
 #footer .footer-content .footer-menu .footer-menu-item {
@@ -24,7 +33,7 @@
 }
 
 #footer .footer-content .footer-menu .footer-menu-item:hover {
-	color: var(--default-green);
+	color: var(--green-300);
 	cursor: pointer;
 }
 
@@ -47,7 +56,7 @@
 }
 
 .socials i:hover {
-	color: var(--default-green);
+	color: var(--green-300);
 	cursor: pointer;
 }
 
@@ -56,12 +65,14 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: flex-end;
-	width: 60%;
+	width: 70%;
 	margin: auto;
 	font-weight: bold;
 	color: #919496;
 	font-size: 0.75rem;
 	padding-top: 50px;
+
+	border: 1px solid green;
 }
 
 .footer-info .footer-info-items {
@@ -75,7 +86,7 @@
 }
 
 .footer-info .footer-info-items .footer-info-item:hover {
-	color: var(--default-green);
+	color: var(--green-300);
 	cursor: pointer;
 }
 
@@ -91,7 +102,7 @@
 }
 
 .footer-info .rights .country p:hover {
-	color: var(--default-green);
+	color: var(--green-300);
 	cursor: pointer;
 }
 
